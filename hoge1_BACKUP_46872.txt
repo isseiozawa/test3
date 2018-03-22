@@ -1,0 +1,5 @@
+<<<<<<< .merge_file_a38748
+hoge1j
+=======
+hoge1z
+>>>>>>> .merge_file_a46576
